@@ -1,6 +1,8 @@
+# 215. Protein .NET Bootcamp Bitirme Projesi
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEZxIbp8k1aXw/company-logo_200_200/0/1617369316714?e=2147483647&v=beta&t=JoshxzaFqO5pjEGJFfYNBpaR-P0U7lHM1shYJdR9G_0"></img>
-Protein Bitirme Projesi · Egemen Gürdal UYAN 
+<img src="https://pbs.twimg.com/profile_images/1360317534172569614/sdir3Sab_400x400.jpg" width="200px"></img><br/>
+215. Protein .NET Bootcamp Bitirme Projesi · Egemen Gürdal UYAN 
 </p> 
 
 # About the Project
