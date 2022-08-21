@@ -1,0 +1,14 @@
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\bin\Debug\net6.0\ProteinApi.Base.deps.json
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\bin\Debug\net6.0\ProteinApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\bin\Debug\net6.0\ProteinApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\refint\ProteinApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ref\ProteinApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\bin\Debug\net6.0\ProteinApi.Base.runtimeconfig.json
+C:\Users\Egemen Gürdal\source\repos\ProteinApi\ProteinApi.Base\obj\Debug\net6.0\ProteinApi.Base.genruntimeconfig.cache
