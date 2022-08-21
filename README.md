@@ -102,6 +102,8 @@ Kullanıcıların sistemde kayıtlı ürünlere, isterlerse teklif vererek ulaş
   </tr>
 </table>
 
+## Veritabanı backup dosyası
+* Link: <a href="https://drive.google.com/file/d/17V1PeGsRkEOlvDJ2NdxavWAXpSmAC_81/view?usp=sharing" target="_blank">SqlBackup</a>
 
 # Servisler
 ## Token Servisi
@@ -113,6 +115,7 @@ Kullanıcıların sistemde kayıtlı ürünlere, isterlerse teklif vererek ulaş
 * Bu serviste kullanıcıların hesapları için oluşturulmuş CRUD işlemleri yer almaktadır. 
 * Account oluşturma hariç diğer tüm servisler authentication gerektiren servislerdir.
 * Şifre değiştirme, hesap silme, hesap üzerinde yapılmış olan teklifleri görüntüleme ve tüm hesapları görüntüleme.
+* Kullanıcıların kayıt işlemleri sonrasında işlem başarılı ise taraflarına mail yollanır.
 
 ![account](https://user-images.githubusercontent.com/82399866/185810918-894cf264-19d7-4fb8-ab4f-948684dbd3f3.png)
 
@@ -127,5 +130,6 @@ Kullanıcıların sistemde kayıtlı ürünlere, isterlerse teklif vererek ulaş
 * Ürünlerin kayıtları esnasında kullanılması için ihtiyaç duyulan kategori listesi de tüm kategorileri görüntüleme işlemi sayesinde sağlanmaktadır.
 
 ![Category](https://user-images.githubusercontent.com/82399866/185810926-953177aa-fec9-46e0-9065-a2ae687e0d23.png)
+
 
 
