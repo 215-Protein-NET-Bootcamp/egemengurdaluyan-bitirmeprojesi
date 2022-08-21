@@ -103,7 +103,7 @@ Kullanıcıların sistemde kayıtlı ürünlere, isterlerse teklif vererek ulaş
 </table>
 
 ## Veritabanı backup dosyası
-* Link: <a href="https://drive.google.com/file/d/17V1PeGsRkEOlvDJ2NdxavWAXpSmAC_81/view?usp=sharing" target="_blank">SqlBackup</a>
+* Link: <a href="https://drive.google.com/file/d/16_Ge9iNZFSsBbI5H8sxcuk-sQanuDbuv/view?usp=sharing" target="_blank">SqlBackup</a>
 
 # Servisler
 ## Token Servisi
